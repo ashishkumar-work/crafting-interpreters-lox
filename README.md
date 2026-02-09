@@ -1,2 +1,3 @@
 # crafting-interpreter-lox
-Following craftinginterpreters.com to make a interpreter using java 
+To-Do:
+1. Try to add bitwise, shift, modulo, and conditional operators.
